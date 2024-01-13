@@ -7,9 +7,9 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-  <img align="center" alt="Leo-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Leo-Webpack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+  <img align="center" alt="Leo-Node" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
+  <img align="center" alt="Leo-Ts" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/swift.svg">
+  <img align="center" alt="Leo-Webpack" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/android.png" />
  <!- <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" ->
   <img align="center" alt="Leo-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Leo-Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
