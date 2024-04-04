@@ -1,4 +1,4 @@
-## Oiii! Eu sou Leonardo Lobo
+## Hiii! I'm Leonardo Lobo
  
  <div>
   <a href="https://github.com/LeoLobo30">
